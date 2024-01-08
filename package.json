@@ -1,8 +1,12 @@
 {
   "description": "Types for tiddlywiki",
   "license": "MIT",
-  "name": "tw5-typed",
-  "version": "0.4.3",
+  "name": "@oeyoews/tw5-typed",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "version": "0.4.4",
   "url": "https://github.com/tiddly-gittly/tw5-typed",
   "homepage": "https://github.com/tiddly-gittly/tw5-typed",
   "bugs": {
